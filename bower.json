@@ -1,0 +1,21 @@
+{
+  "name": "absurd-talk",
+  "version": "0.0.0",
+  "authors": [
+    "Eric Ponto <ponto.eric@principal.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "absurd": "*",
+    "markdown": "~0.5.0",
+    "google-code-prettify": "~1.0.3",
+    "underscore": "~1.7.0"
+  }
+}
